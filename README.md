@@ -1,4 +1,4 @@
-# This is a my first Django Project
+# This is my first Django Project
 
 
 ## Contains a simple blog app  
